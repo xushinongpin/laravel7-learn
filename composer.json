@@ -21,7 +21,8 @@
         "laravel-admin-ext/reporter": "^1.0",
         "laravel-admin-ext/scheduling": "^1.0",
         "laravel/framework": "5.7.*",
-        "laravel/tinker": "^1.0"
+        "laravel/tinker": "^1.0",
+        "phpoffice/phpspreadsheet": "^1.5"
     },
     "require-dev": {
         "beyondcode/laravel-dump-server": "^1.0",
